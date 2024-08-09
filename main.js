@@ -1,3 +1,5 @@
+//Level 1
+
 /**
 "PLEASE HELP! I told Carol I would fill in for her at work, but I don't know the differences between vowels and consonants... 
 Can you help me by writing a function?"
