@@ -5,8 +5,9 @@ Make your own Codewars Style Challenge
 -Present your project plan, story, and anything else you feel supports your creation process and final outcome in a document
 
 Ticket 1:
--Install Vitest
-    -REMEMBER: script test in package.json
+-Install Vitest✅
+    -Developer dependency✅
+    -REMEMBER: script test in package.json ✅
     (NPM test script)
 -Brainstorm:
 Disney ideation:
@@ -22,6 +23,7 @@ Realist:
 -Short time frame, won't get a frontend done in time
                 Won't get multiple levels completed, I can plan for two
 -Maybe get a few images in the readME file instead 
+
 
 Spoiler:
 -The brief is a kata challenge and not a website, KEEP IT SIMPLE
@@ -60,7 +62,7 @@ Team planning:
 -Every hour meet up to demo and discuss
 -If you need help, unmute/message in slack to ask for help
 
-Ticket 2: Plan Your Kata
+Ticket 2: Plan Your Kata ✅
 Scenario: 
 Easy level 1:
 "PLEASE HELP! I told Carol I would fill in for her at work, but I don't know the differences between vowels and consonants... 
