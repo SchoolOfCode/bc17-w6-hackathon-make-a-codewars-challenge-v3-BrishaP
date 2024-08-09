@@ -9,6 +9,30 @@ Ticket 1:
     -REMEMBER: script test in package.json
     (NPM test script)
 -Brainstorm:
+Disney ideation:
+Dreamer: 
+-I would have an interactive public/frontend with graphics of Countdown
+-Carol Vorderman would speak to you in alerts
+-The website itself would look like the letters game from countdown 
+-You would need to complete the task and get the countdown music playing on the website
+-Multiple challenges
+-Really complex storyline
+
+Realist:
+-Short time frame, won't get a frontend done in time
+                Won't get multiple levels completed, I can plan for two
+-Maybe get a few images in the readME file instead 
+
+Spoiler:
+-The brief is a kata challenge and not a website, KEEP IT SIMPLE
+-No long winded storylines or music playing when katas are completed
+-Meet the basic MVP's/tickets of installing vitest, creating basic tests 
+-Next MVP is to complete level 1
+-Next MVP: add a few hints and tips
+-Next MVP: complete level 2 
+-Stretch tasks/MVP's are all levels after this 
+-Maybe use GitTasks
+
 (Brainstorm originally on figma)
 Inspiration: Countdown
 
@@ -31,6 +55,10 @@ function consonantOrVowel(Letter inserted here as a string input) {};
         function consonantVowelSwap(stringInput) {};
 
 Aim to get level 1 completed any maybe move to level 2
+
+Team planning: 
+-Every hour meet up to demo and discuss
+-If you need help, unmute/message in slack to ask for help
 
 Ticket 2: Plan Your Kata
 Scenario: 
